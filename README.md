@@ -1,4 +1,5 @@
-# IVAN RESETNIKOV
+# LowRezCat
+Real name: Ivan Resetnikov
 
 I'm software and indie game developer,
 SFX and 2D VFX designer and
