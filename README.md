@@ -3,6 +3,8 @@ My name is LowRezCat (Ivan Resetnikov), I'm software developer in Python, C++, J
 That Currently based in Ukraine.
 
 ## Currently working on: [Totally real engine](https://github.com/ivan-resetnikov-a/Real-Engine)
+Tottaly real engine is simple project I made to practice and learn new skills in
+OpenGL and C++. It's relatively new project and contributing is appreciated.
 
 ## 🧑‍💻 About me:
 * 🔭 I am woking as software developer for **6+** years
