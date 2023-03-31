@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is LowRezCat (Ivan Resetnikov), I'm software developer.
+My name is LowRezCat (Ivan Resetnikov), I'm software developer in Python, C++, Java Script. \
+That Currently based in Ukraine.
 
 ## Currently working on: [Totally real engine](https://github.com/ivan-resetnikov-a/Real-Engine)
 
