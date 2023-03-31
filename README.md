@@ -1,10 +1,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is LowRezCat (Ivan Resetnikov), I'm software developer.
 
+## Currently working on: (Totally real engine)[https://github.com/ivan-resetnikov-a/Real-Engine]
+
 ## 🧑‍💻 About me:
 * 🔭 I am woking as software developer for **6+** years
 * ⚡ Pasionate about software developement, AI industry and FOSS politics
-* 🪴 Currently working on: [Pygame RPG text engine](https://github.com/ivan-resetnikov-a/pygame-rpg-text)
 * 📫 Reach me: [Email](mailto:ivan.resetnikov.alpha@gmail.com) / [Itch.io](mailto:ivan.resetnikov.alpha@gmail.com) / [Stack Overflow](https://stackoverflow.com/users/20064615/lowrezcat) / [PyPi](https://pypi.org/user/LowRezCat/) / [Twitter](https://twitter.com/IvanResetikov) / [Patreon](https://www.patreon.com/user?u=84122364)
 
 ## 💻 Languages i use:
