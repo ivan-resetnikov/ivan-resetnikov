@@ -36,6 +36,6 @@ OpenGL and C++. It's relatively new project and contributing is appreciated.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-resetnikov-a&theme=tokyonight)
 
 ## 🎓 My education:
-* 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://lyceum133.klasna.com)
+* 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
 * 🎒 [**Kharkiv IT Univercity**](https://ituniver.com/online-learning/about)
 * 🎓 [**Khakiv Computer Programming College**](https://khpcc.com/)
