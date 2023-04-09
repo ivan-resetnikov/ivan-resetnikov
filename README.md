@@ -36,12 +36,6 @@ I'm software & game developer. Using Python & C++. 7+ years of experience<br>
 
 <br>
 
-## 🔥 My status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-resetnikov-a&show_icons=true&theme=dracula)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivan-resetnikov-a&theme=dracula)
-
-<br>
-
 ## 🎓 My education:
 * 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
 * 🎒 [**Kharkiv IT Univercity** (2 Year course)](https://ituniver.com/online-learning/about)
