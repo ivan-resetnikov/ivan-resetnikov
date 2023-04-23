@@ -40,3 +40,7 @@ I'm software & game developer. Using Python & C++. 7+ years of experience<br>
 * 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
 * 🎒 [**Kharkiv IT Univercity** (2 Year course)](https://ituniver.com/online-learning/about)
 * 🎓 [**Khakiv Computer Programming College**](https://khpcc.com/)
+
+## ❤️ Support me
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968732.png" width="32px">](https://www.patreon.com/user/membership?u=84122364)
+[<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5c58570cfdd26f0001068f06/0x0.png" width="32px">](https://www.buymeacoffee.com/lowrezcat)
