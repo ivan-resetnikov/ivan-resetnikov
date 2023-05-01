@@ -18,21 +18,49 @@ I'm software & game developer. Using Python & C++. 7+ years of experience<br>
 <br>
 
 ## ⚒️ Tools
-<li style="padding-right: 10px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width=50>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width=50>
-</li>
+ <table>
+  <tr>
+    <td>Languages</td>
+    <td>Tools</td>
+    <td>Code Editors</td>
+    <td>Source Controll</td>
+    <td>Libraries</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width=50>
+    </td>
+    <td>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width=50>
+    </td>
+    <td>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width=50>
+    </td>
+    <td>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=50>
+    </td>
+    <td>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" width=50>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=50>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <br>
 
