@@ -1,7 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="200px"> <samp> <br>
   👨‍💻 Working on: [Real Engine](https://github.com/ivan-resetnikov-a/Real-Engine)<br>
   🏠 Based: Kharkiv, Ukraine<br>
-  📖 Reading: "Trilogy of Desire" - Theodore Dreiser<br> 
+  📖 Reading: "Study in Scarlet" - Arthur Conan Doyle<br> 
 </samp>
 
 ---
