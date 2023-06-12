@@ -28,6 +28,7 @@ I'm software & game developer. Using Python & C++. 7+ years of experience<br>
   </tr>
   <tr>
     <td>
+      <span><b>Mojo</b> 🔥</span>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=50>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width=50>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=50>
@@ -52,6 +53,7 @@ I'm software & game developer. Using Python & C++. 7+ years of experience<br>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=50>
     </td>
     <td>
+      <img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-responsive.svg" width=50>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" width=50>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" width=50>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=50>
