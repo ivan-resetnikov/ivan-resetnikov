@@ -1,7 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="200px"> <samp> <br>
-  👨‍💻 Working on: [Major Jam: 6 "Life"](https://github.com/ivan-resetnikov/major-jam-6-life)<br>
-  🏠 Based: Kharkiv, Ukraine<br>
-  📖 Reading: "Study in Scarlet" - Arthur Conan Doyle<br> 
+  👨‍💻 Working on: Astro (Temporarely unlisted)<br>
+  🏠 Based: Oslo, Norwegia<br>
 </samp>
 
 ---
@@ -12,8 +11,9 @@ I'm software & game developer. Using Python & C++. 7+ years of experience<br>
 
 ## 🧑‍💻 About me:
 * 🔭 I am woking as software developer for **7+** years
-* ⚡ Pasionate about software developement, AI industry and FOSS politics
-* 📫 Reach me: [Email](mailto:ivan.resetnikov.alpha@gmail.com) / [Itch.io](mailto:ivan.resetnikov.alpha@gmail.com) / [PyPi](https://pypi.org/user/LowRezCat/) / [Twitter](https://twitter.com/IvanResetikov) / [Patreon](https://www.patreon.com/user?u=84122364)
+* ⚡ Pasionate about FOSS and AI
+* 🔍 Find me on: [Itch.io](mailto:ivan.resetnikov.alpha@gmail.com) / [PyPi](https://pypi.org/user/LowRezCat/) / [Twitter](https://twitter.com/IvanResetikov)
+* 📫 Reach me: [Mail](mailto:ivan.resetnikov.alpha@gmail.com)
 
 <br>
 
