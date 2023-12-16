@@ -1,25 +1,22 @@
-
-
-
 # 🪪 Ivan Reshetnikov
 
 **`Digital craftsman (Developer/Animator/Designer)`**
 
 I'm an indie fullstack game and software developer, 3D Animator and a game designer. \
-Shaping future of the digital world step by step at a time.
+Shaping future of the digital world one step at a time.
 
 ---
 
 ### 🧐 About
 * 🔥 Pasionate about FOSS and AI
-* 👨‍💻 Working on: [Real Engine](https://github.com/ivan-resetnikov/Real-Engine)
-* 🏠 Based in Oslo, Norwegia
+* 🏠 Based in Oslo, Norway
+* 🧑‍💻 Working at Abydos Games AB
 * 🔍 Find me on [itch.io](mailto:ivan.resetnikov.alpha@gmail.com) / [Twitter](https://twitter.com/IvanResetikov)
-* ✉️ Reach me [Mail](mailto:ivan.resetnikov.alpha@gmail.com)
+* ✉️ Reach me [Mail](mailto:ivan.reshetnikov.contact@gmail.com)
 
 ### 🎓 Education
 * 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
-* 🎒 [**Kharkiv IT Univercity** (2 Year course)](https://ituniver.com/online-learning/about)
+* 🎒 [**Kharkiv IT University** (2 Year course)](https://ituniver.com/online-learning/about)
 * 🎓 [**Khakiv Computer Programming College**](https://khpcc.com/)
 
 #
