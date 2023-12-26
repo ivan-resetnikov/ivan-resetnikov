@@ -8,9 +8,9 @@ Shaping future of the digital world one step at a time.
 ---
 
 ### 🧐 About
-* 🔥 Pasionate about FOSS and AI
-* 🏠 Based in Oslo, Norway
-* 🧑‍💻 Working at Abydos Games AB
+* 🔥 Pasionate about game developement and FOSS
+* 🏠 Based in Gjøvik, Norway
+* 🧑‍💻 Working at [Abydos Games AB](https://github.com/Abydos-Games)
 * 🔍 Find me on [itch.io](mailto:ivan.resetnikov.alpha@gmail.com) / [Twitter](https://twitter.com/IvanResetikov)
 * ✉️ Reach me [Mail](mailto:ivan.reshetnikov.contact@gmail.com)
 
@@ -18,6 +18,7 @@ Shaping future of the digital world one step at a time.
 * 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
 * 🎒 [**Kharkiv IT University** (2 Year course)](https://ituniver.com/online-learning/about)
 * 🎓 [**Khakiv Computer Programming College**](https://khpcc.com/)
+* 🏫 [Gjøvik Læringsenter](https://www.gjovik.kommune.no/gjoviklaringssenter/)
 
 #
 
