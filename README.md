@@ -18,7 +18,7 @@ Shaping future of the digital world one step at a time.
 * 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
 * 🎒 [**Kharkiv IT University** (2 Year course)](https://ituniver.com/online-learning/about)
 * 🎓 [**Khakiv Computer Programming College**](https://khpcc.com/)
-* 🏫 [Gjøvik Læringsenter](https://www.gjovik.kommune.no/gjoviklaringssenter/)
+* 🏫 [**Gjøvik Vardal Ungdomskole**](https://www.gjovik.kommune.no/vardalungdomsskole/)
 
 #
 
