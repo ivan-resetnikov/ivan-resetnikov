@@ -11,8 +11,8 @@ Shaping future of the digital world one step at a time.
 * 🔥 Pasionate about game developement and FOSS
 * 🏠 Based in Gjøvik, Norway
 * 🧑‍💻 Working at [Abydos Games AB](https://github.com/Abydos-Games)
-* 🔍 Find me on [itch.io](mailto:ivan.resetnikov.alpha@gmail.com) / [Twitter](https://twitter.com/IvanResetikov)
-* ✉️ Reach me [Mail](mailto:ivan.reshetnikov.contact@gmail.com)
+* 🔍 Find me on  [Itch](mailto:ivan.resetnikov.alpha@gmail.com), [Twitter](https://twitter.com/IvanResetikov) or [Mastodon](https://mastodon.gamedev.place/@ivan_reshetnikov)
+* ✉️ Contact me [Mail](mailto:ivan.reshetnikov.contact@gmail.com)
 
 ### 🎓 Education
 * 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
