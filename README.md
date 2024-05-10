@@ -14,12 +14,6 @@ Shaping future of the digital world one step at a time.
 * 🔍 Find me on [Itch](mailto:ivan.resetnikov.alpha@gmail.com), [Twitter](https://twitter.com/IvanResetikov) or [Mastodon](https://mastodon.gamedev.place/@ivan_reshetnikov)
 * ✉️ Contact me via [Mail](mailto:ivan.reshetnikov.contact@gmail.com)
 
-### 🎓 Education
-* 🏫 [**Kharkiv Specialized School** №133 "Liceum Of Arts"](https://mon.gov.ua/ua)
-* 🎒 [**Kharkiv IT University** (2 Year course)](https://ituniver.com/online-learning/about) (Software engineering & Game development)
-* 🎓 [**Khakiv Computer Programming Colledge**](https://khpcc.com/) (Software engineer major)
-* 🏫 [**Gjøvik Vardal Ungdomskole**](https://www.gjovik.kommune.no/vardalungdomsskole/)
-
 #
 
 ### 🧰 Tech stack
