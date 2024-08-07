@@ -1,8 +1,8 @@
 # 🪪 Ivan Reshetnikov
 
-**`Digital craftsman (Developer/Animator/Designer)`**
+**`Digital craftsman (Developer/Designer)`**
 
-I'm an indie fullstack game and software developer, 3D Animator and a game designer. \
+I'm a game and software developer at [Abydos Games AB](https://github.com/Abydos-Games). And a graphics programmer on the side. \
 Shaping future of the digital world one step at a time.
 
 ---
