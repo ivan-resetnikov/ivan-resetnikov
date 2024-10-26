@@ -7,4 +7,4 @@ Any public repos here are to share knowledege with others.
 
 Sometimes I write articles about graphics programming, game engines, algorithm implemenations, and cool projects.
 
-Contact & information on my [website](ivan-reshetnikov.dev).
+Contact & information on my [website](https://ivan-reshetnikov.dev).
